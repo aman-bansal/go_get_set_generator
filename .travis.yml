@@ -1,0 +1,10 @@
+language: go
+
+go:
+  - 1.9.x
+  - 1.10.x
+  - 1.11.x
+
+script:
+  - go build ./...
+  - go install gitlab.com/machodev/go_get_set_generator/get_set_generate
