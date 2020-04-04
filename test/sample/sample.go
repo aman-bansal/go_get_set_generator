@@ -1,4 +1,4 @@
-package test
+package sample
 
 type SampleObject struct {
 	Id          string

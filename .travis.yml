@@ -7,4 +7,4 @@ go:
 
 script:
   - go build ./...
-  - go install gitlab.com/machodev/go_get_set_generator/get_set_generate
+  - go install github.com/aman-bansal/go_get_set_generator/get_set_generate
